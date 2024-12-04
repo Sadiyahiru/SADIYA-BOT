@@ -20,7 +20,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+MANISHA-MD+MADE+IN+SRILANKA+🇱🇰" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+SADIYA_BOT+MADE+IN+SRILANKA+🇱🇰" alt="Typing SVG" /></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src= https://i.imgur.com/LyHic3i.gif /></a>
 
 # 🥷GET YOUR SESSION ID 👇☺️
