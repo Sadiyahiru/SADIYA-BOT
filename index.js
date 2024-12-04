@@ -77,8 +77,8 @@ if (path.extname(plugin).toLowerCase() == ".js") {
 require("./plugins/" + plugin);
 }
 });
-console.log('Plugins installed successful 🥷')
-console.log('Bot connected to whatsapp 🥷')
+console.log('Plugins installed successful 🐼')
+console.log('Bot connected to whatsapp 🐼')
 
 let up = `🐼 *_SADIYA BOTConnected Successfully!_* 🐼 
 
