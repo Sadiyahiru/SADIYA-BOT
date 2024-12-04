@@ -7,13 +7,15 @@ f'/></a><a><img src='img src="https://i.imgur.com/dBaSKWF.gif'/></a>
 <p align="center">
 <img src="./Android/database/manisha3.gif" alt="Loading..." width="320"/>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='img src="https://i.imgur.com/dBaSKWF.gif'/></a>
+<a><img src='<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">'/></a><a><img src='img src="https://i.imgur.com/dBaSKWF.gif'/></a>
 
 </p>
 <p align="center"> 
     <img alt=Support height="390" src="https://files.catbox.moe/stxzru.jpg">
  
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='img src="https://i.imgur.com/dBaSKWF.gif'/></a>
+ <a><img src='<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+'/></a><a><img src='img src="https://i.imgur.com/dBaSKWF.gif'/></a>
               
 <div align="center">
 	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="manisha">
