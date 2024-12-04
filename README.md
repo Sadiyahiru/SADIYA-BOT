@@ -1,7 +1,7 @@
 # SADIYA_BOT
 💗🖇️ 𝗕𝗘𝗦𝗧 𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧❤️
 # 𝗦𝗔𝗗𝗜𝗬𝗔 𝗠𝗗
-```MADE BY MANISHA SASMITHA```
+```MADE BY Sadeesha hirushan ```
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
