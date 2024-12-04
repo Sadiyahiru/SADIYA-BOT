@@ -12,7 +12,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VavZd1y0lwgxqEopap2e">
-    <img alt=Support height="390" src="https://files.catbox.moe/tjhxsh.jpg">
+    <img alt=Support height="390" src="https://i.ibb.co/L8FKnR0/813d36a858f9d7ab.jpg">
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></n>
 
@@ -23,12 +23,12 @@
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
               
 <div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="manisha">
+	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="Sadiya">
 </div>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+MANISHA-MD+MADE+IN+SRILANKA+🇱🇰" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+𝐒𝐀𝐃𝐈𝐘𝐀-MD+MADE+IN+SRILANKA+🇱🇰" alt="Typing SVG" /></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src= https://i.imgur.com/LyHic3i.gif /></a>
 
 # 🥷GET YOUR SESSION ID 👇☺️
