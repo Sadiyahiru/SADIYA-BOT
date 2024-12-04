@@ -1,13 +1,13 @@
 # SADIYA BOT
 ```MADE BY SADEESHA HIRUSHAN```
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/dBaSKWF.gif'/></a><a><img src='https://i.imgur.com/dBaSKWF.gif'/></a>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/dBaSKWF.gif'/></a><a><img src='https://i.imgur.com/dBaSKWF.gif'/></a>
 
 </p>
 <p align="center"> 
