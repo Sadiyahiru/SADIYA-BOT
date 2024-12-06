@@ -1,60 +1,25 @@
 {
   "name": "SADIYA_BOT",
-  "description": "SADIYA_BOT Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
+  "description": "Javascript WhatsApp bot made by sadeesha hirushan",
   "logo": "https://files.catbox.moe/stxzru.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
-    "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
-      "required": true,
-      "value": ""
+      "required": true
     },  
-    
-    "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
-      "required": true,
-      "value": "public"
-    }, 
 
-    "AUTO_VOICE": {
-      "description": "Make it true if you want bot auto voice.",
-      "required": true,
-      "value": "true"
-    }, 
-
-    "AUTO_REPLY": {
-      "description": "Make it true if you want bot auto reply.",
-      "required": true,
-      "value": "true"
-    }, 
-
-    "AUTO_STICKER": {
-      "description": "Make it true if you want bot auto sticker.",
-      "required": true,
-      "value": "false"
-    }, 
-
-    "AUTO_READ_STATUS": {
-      "description": "Make it true if you want bot auto auto_read_status.",
-      "required": true,
-      "value": "true"
-    }, 
-    
-    "FAKE_RECORDING": {
-      "description": "Make it true if you want bot fake record.",
-      "required": true,
-      "value": "true"
+    "ALIVE_IMG": {
+      "description": "Put your alive img here.",
+      "required": true
     },
-
-    "AUTO_REACT": {
-      "description": "Make it true if you want bot AutoReact.",
-      "required": true,
-      "value": "false"
-    }
-
+    
+    "ALIVE_MSG": {
+      "description": "Put your alive msg here.",
+      "required": true
+    }   
 },
 
      "buildpacks": [
