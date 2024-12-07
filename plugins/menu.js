@@ -12,11 +12,6 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-    
-const voice = {
-    menu: 'media/AUD-20241128-WA0015.aac'
-}
-
 let menu = {
 main: '',
 download: '',
@@ -99,8 +94,7 @@ ${menu.tools}
 ╰───────────●●►
 *🐼ꜱᴀᴅɪʏᴀ_ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ʜɪʀᴜꜱʜᴀɴ🐼*
 `
-await conn.sendMessage(from, { audio: { url: voice.menu }, mimetype: 'audio/mp4', ptt: true }, { quoted: mek })
-    
+
 return await conn.sendMessage(from,{image: {url: `https://files.catbox.moe/stxzru.jpg`},caption:madeMenu},{quoted: mek})
 }catch(e){
 console.log(e)
