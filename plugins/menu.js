@@ -99,6 +99,8 @@ ${menu.tools}
 ╰───────────●●►
 *🐼ꜱᴀᴅɪʏᴀ_ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ʜɪʀᴜꜱʜᴀɴ🐼*
 `
+await conn.sendMessage(from, { audio: { url: voice.menu }, mimetype: 'audio/mp4', ptt: true }, { quoted: mek })
+    
 return await conn.sendMessage(from,{image: {url: `https://files.catbox.moe/stxzru.jpg`},caption:madeMenu},{quoted: mek})
 }catch(e){
 console.log(e)
