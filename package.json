@@ -37,6 +37,8 @@
     "google-tts-api":"2.0.2",
     "wa-sticker-formatter":"4.4.4",
     "ytdl-core": "^4.11.5",
-    "@dark-yasiya/yt-dl.js": "latest"
+    "@dark-yasiya/yt-dl.js": "latest",
+    "ruhend-scraper":"8.0.3",
+    "child_process":"1.0.2"
   }
 }
