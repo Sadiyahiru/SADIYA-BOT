@@ -1,6 +1,6 @@
 {
   "name": "SADIYA_BOT",
-  "description": "SADIYA_BOT Whatsapp bot © create by sadeesha · · ·",
+  "description": "SADIYA_BOT Whatsapp bot © create by sadeesha",
   "logo": "https://files.catbox.moe/stxzru.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -34,7 +34,7 @@
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -52,7 +52,7 @@
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }
 
 },
